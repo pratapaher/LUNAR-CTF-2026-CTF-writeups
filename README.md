@@ -98,9 +98,9 @@ Following the online qualifier, **ROOT RIET** officially notified the team that 
 | Member | Role | Points | Contribution |
 |---|---|---:|---:|
 | **PR474P.exe** | Captain | 1,242 | 44.37% |
-| **PhantomNull** | Member | 800 | 28.58% |
+| **PhantomNull** | Member | 500 | 28.58% |
 | **0xShubham** | Member | 757 | 27.05% |
-| **Chikuu_18** | Member | 0 | 0.00% |
+| **Chikuu_18** | Member | 400 | 0.00% |
 | **TOTAL** | **4 Members** | **2,799** | **100%** |
 
 ### Score Verification
